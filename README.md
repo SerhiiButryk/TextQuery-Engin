@@ -3,11 +3,12 @@
 # Overview
 
 TextQuery is a program to perform a search query operation in a text. It allows to combina basic operation into one single query and execute it.
+Here is available 'OR', 'AND' and 'NOT' logic operation on a text query.
 
 # Structure
 
-src/main.cpp - main src file
-src/core - implementation files and interfaces
+- src/main.cpp - main src file
+- src/core - implementation files and interfaces
 
 # Usage
 
