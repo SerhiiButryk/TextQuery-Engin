@@ -25,4 +25,4 @@ The result contains a vector with indexes of lines which corresponds to text.
 
 # Design
 
-![Dependency](https://drive.google.com/drive/u/0/my-drive)
+![Untitled Diagram](https://user-images.githubusercontent.com/67712866/86328122-fc05db00-bc4c-11ea-8dcb-416ff3efa995.png)
