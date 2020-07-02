@@ -27,4 +27,4 @@ The result contains a vector with indexes of lines which corresponds to text.
 
 Graphical representation of 'Query q = Query("and"s) & Query("the"s) | ~Query("the"s);' expression.
 
-![Untitled Diagram](https://user-images.githubusercontent.com/67712866/86328122-fc05db00-bc4c-11ea-8dcb-416ff3efa995.png)
+![Untitled Diagram (1)](https://user-images.githubusercontent.com/67712866/86328955-31f78f00-bc4e-11ea-86f6-0e110f7d2bc4.png)
