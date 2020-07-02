@@ -3,7 +3,7 @@
 # Overview
 
 TextQuery is a program to perform a search query operation in a text. It allows to combina basic operation into one single query and execute it.
-Here is available 'OR', 'AND' and 'NOT' logic operation on a text query.
+Here is available 'OR', 'AND' and 'NOT' logic operations on a text query.
 
 # Structure
 
