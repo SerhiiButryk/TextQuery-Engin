@@ -8,7 +8,8 @@ Here is available 'OR', 'AND' and 'NOT' logic operations on a text query.
 # Structure
 
 - src/main.cpp - main src file
-- src/core - implementation files and interfaces
+- src/core - implementation of classes and interfaces
+- src/core/queries - implementation of 'or', 'and' and 'not' query classes
 
 # Usage
 
